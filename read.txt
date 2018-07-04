@@ -1,4 +1,8 @@
 i add something here
 add second time
 add third time.
-creating a new branch is quich & simple
+<<<<<<< HEAD
+creating a new branch is quich and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> feature1
